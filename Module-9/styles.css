@@ -1,0 +1,45 @@
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.green{
+  color: green;
+}
+
+.big{
+  font-size: 2em;
+}
+
+.tiny{
+  font-size: .25em;
+}
+
+.center{
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.font{
+  font-style: italic;
+}
+
+.orange{
+  color: orange;
+}
+
+.styledFont{
+  color:green;
+  border-width: 10px;
+
+}
+
+#styledImage{
+  border: 6px solid yellow;
+}
