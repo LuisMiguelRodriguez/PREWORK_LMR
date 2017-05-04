@@ -1,0 +1,2 @@
+all comments of broken code are locating in
+the files and are commented
